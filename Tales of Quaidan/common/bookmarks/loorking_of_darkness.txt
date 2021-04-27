@@ -1,0 +1,10 @@
+bookmarks = {
+	bookmark = {
+		name = "Loorking of Darkness"
+		desc = "LOORKING_OF_DARKNESS_LOC"
+		date = 1080.1.1.12
+		picture = "GFX_select_date_1080"
+		default_country = "TST"
+		default = yes
+		
+

@@ -1,0 +1,9 @@
+state={
+	id=355
+	name="STATE_355"
+	provinces={
+		4499 6307 6315 6961 7013 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

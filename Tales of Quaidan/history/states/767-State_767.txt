@@ -1,0 +1,9 @@
+state={
+	id=767
+	name="STATE_767"
+	provinces={
+		866 1245 1455 3704 8326 8339 8350 8384 8392 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

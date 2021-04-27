@@ -1,0 +1,4 @@
+	spriteType = {
+		name = "GFX_tales_of_quaidan_bookmark"
+		texturefile = "gfx/interface/select_date_1080.dds"
+	}
